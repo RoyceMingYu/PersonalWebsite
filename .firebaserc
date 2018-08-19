@@ -1,1 +1,6 @@
-{}
+{
+  "projects": {
+    "test": "personal-website-d94fc",
+    "default": "personal-website-d94fc"
+  }
+}
